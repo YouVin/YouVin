@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **YouVin/YouVin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="100%" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ee4c5a1f-b138-4b4a-9a33-b043786352b7" />
