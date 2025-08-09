@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/253bc882-6c75-4897-a51f-5e1e2c47f197" />
+<img width="100%" height="460" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/a06febb1-8e76-40a4-97e6-4b9416b4b95d" />
