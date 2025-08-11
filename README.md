@@ -77,12 +77,12 @@
   <tr>
     <td width="600">
       <a href="https://solved.ac/dbqlsrbqls12">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbqlsrbqls12" width="100%" height="200px"/>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbqlsrbqls12" width="100%" height="150px"/>
       </a>
     </td>
     <td width="600">
       <a href="https://solved.ac/dbqlsrbqls12">
-        <img src="http://mazandi.herokuapp.com/api?handle=dbqlsrbqls12&theme=dark" width="100%" height="200px"/>
+        <img src="http://mazandi.herokuapp.com/api?handle=dbqlsrbqls12&theme=dark" width="100%" height="150px"/>
       </a>
     </td>
   </tr>
