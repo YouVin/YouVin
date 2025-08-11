@@ -50,3 +50,41 @@
   </tr>
 </table>
 
+--- 
+
+## GitHub Stats
+
+<table width="100%">
+  <tr>
+    <td width="600">
+      <a href="https://github.com/YouVin/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=YouVin&show_icons=true&theme=radical" width="100%" height="200px"/>
+      </a>
+    </td>
+    <td width="600">
+      <a href="https://github.com/YouVin/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YouVin&layout=compact&theme=radical" width="100%" height="200px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+--- 
+
+##  BOJ Stats
+
+<table width="100%">
+  <tr>
+    <td width="600">
+      <a href="https://solved.ac/dbqlsrbqls12">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dbqlsrbqls12" width="100%" height="200px"/>
+      </a>
+    </td>
+    <td width="600">
+      <a href="https://solved.ac/dbqlsrbqls12">
+        <img src="http://mazandi.herokuapp.com/api?handle=dbqlsrbqls12&theme=dark" width="100%" height="200px"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
