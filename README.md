@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="100%" height="460" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/a06febb1-8e76-40a4-97e6-4b9416b4b95d" />
+<img width="100%" height="1024" alt="ChatGPT Image 2025년 8월 11일 오후 01_56_15" src="https://github.com/user-attachments/assets/f9d8d0c5-cf2a-4883-89cc-0cc2b51e5cd3" />
