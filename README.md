@@ -54,7 +54,7 @@
 
 ## GitHub Stats
 
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td width="600">
       <a href="https://github.com/YouVin/github-readme-stats">
@@ -67,7 +67,7 @@
       </a>
     </td>
   </tr>
-</table>
+</table> -->
 
 --- 
 
